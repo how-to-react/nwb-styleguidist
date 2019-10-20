@@ -19,7 +19,9 @@
   },
   "devDependencies": {
     "create-nwb-webpack-config": "^1.0.0",
-    "react-styleguidist": "^6.0.32"
+    "nwb-sass": "^0.9.0",
+    "react-styleguidist": "^6.0.32",
+    "sass-loader": "^7.3.1"
   },
   "author": "",
   "license": "MIT",
